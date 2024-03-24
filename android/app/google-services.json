@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618588014280",
+    "project_id": "pizzawroclaw-a31a0",
+    "storage_bucket": "pizzawroclaw-a31a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618588014280:android:c07444ec06d0ace5d887fd",
+        "android_client_info": {
+          "package_name": "com.example.pizzawroclaw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOY_U_bR7tPwNLF372mlk3pvleoAjG9hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
